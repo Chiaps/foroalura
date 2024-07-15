@@ -1,6 +1,6 @@
 # foroalura
 
-Forumalura es una aplicación de foro construida usando Spring Boot. Permite a los usuarios autenticarse, crear, actualizar, eliminar y listar temas y publicaciones. Esta aplicación está basada en una arquitectura de API REST y utiliza MySQL para la persistencia de datos.
+Foroalura es una aplicación de foro construida usando Spring Boot. Permite a los usuarios autenticarse, crear, actualizar, eliminar y listar temas y publicaciones. Esta aplicación está basada en una arquitectura de API REST y utiliza MySQL para la persistencia de datos. Este ejercicio se realizó como parte del segundo challenge en la especialidad de backend de la sexta generación del programa Oracle-Alura.
 
 ## Tabla de Contenidos
 
